@@ -30,3 +30,21 @@ img {
 #gra {
   background-color: #6f706d;
 }
+
+.yes {
+  text-align: right;
+}
+
+@media screen and (max-width: 768px) {
+  h2 {
+    text-align: center;
+  }
+
+  .yes {
+    text-align: center;
+  }
+
+  .row1 {
+    order: -1;
+  }
+}
