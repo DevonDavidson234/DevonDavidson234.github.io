@@ -1,0 +1,32 @@
+/* Devon Davidson */
+
+.huh {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  padding-bottom: 20px;
+}
+
+.what {
+  font-size: 1.2em;
+  margin:auto;
+}
+
+img {
+  border: 1px solid black;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+#bio {
+  background-color: #e7e9e7;
+}
+
+#edu {
+  background-color: #dee0de;
+}
+#hob {
+  background-color: #b9c2c9;
+}
+#gra {
+  background-color: #6f706d;
+}
