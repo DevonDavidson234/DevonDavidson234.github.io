@@ -17,6 +17,10 @@ img {
   margin-bottom: 20px;
 }
 
+#top {
+  font-family: 'Fjalla One', sans-serif;
+}
+
 #bio {
   background-color: #e7e9e7;
 }
